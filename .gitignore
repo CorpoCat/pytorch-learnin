@@ -208,3 +208,6 @@ __marimo__/
 
 # PyTorch dataset downloads.
 data/
+
+# Serialized PyTorch models.
+*.pth
