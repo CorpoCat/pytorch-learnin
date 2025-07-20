@@ -3,3 +3,4 @@ torchvision
 matplotlib
 numpy
 gymnasium[classic_control]
+pandas
